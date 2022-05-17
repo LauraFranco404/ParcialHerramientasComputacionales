@@ -1,0 +1,8 @@
+1) Al momento de implementar en mi código la idea iterativa, tuve un pequeño problema. 
+Ya que estaba inicializando las variables antes de que comenzara el ciclo en general;
+por tanto, lo que hacía era almacenar lo que había dejado anteriormente y le intentaba
+agregar un entero. Sin embargo, como al final habíamos convertido esa variable a string, 
+arrojaba un error, ya que no se puede sumar un entero a un str().
+
+2) Este error se solucionaba fácilmente inicializando las variables al inicio del ciclo;
+así, cada vez que se repitiera, se tenía la certeza de que comenzaría en el mismo valor.
