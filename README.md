@@ -1,7 +1,7 @@
 # **ParcialHerramientasComputacionales**
 ## **Documentación del Problema**
 ### Problema
-Las cafeterías de la universidad requieren automatizar el cobro de almuerzos brindados a la comunidad estudiantil, por lo que han fijado precios y descuentos a cobrar dependiendo del caso. Se desea saber entonces por cada compra cu´anto debe pagar el usuario en caja. Para ello:
+Las cafeterías de la universidad requieren automatizar el cobro de almuerzos brindados a la comunidad estudiantil, por lo que han fijado precios y descuentos a cobrar dependiendo del caso. Se desea saber entonces por cada compra cuánto debe pagar el usuario en caja. Para ello:
 
 1. Pida por teclado la siguiente información para el cliente: cédula y rol: profesor o estudiante. _Si es estudiante pregunte si es del programa de becas_
 
@@ -29,7 +29,7 @@ Después se muestra el inventario, en donde se pueden visualizar los productos e
 Dependiendo de la cantidad de productos adquiridos y el precio que se asocia a cada producto; se realiza una operación que multiplique ambos valores. Poswteriormente, se le resta el porcentaje de descuento asignado a cada persona según su rol.
 <br>
 <br>
-Finalmente se imprime un recibo que contiene la información del cliente y la factura que contiene tanto el costo de la compra como el código de aquello0 que compró.
+Finalmente se imprime un recibo que contiene la información del cliente y la factura que contiene tanto el costo de la compra como el código de aquello que compró.
 
 ### Entrada
 Inicialmente, a la función princiupal no se le da ningún parámetro en la entrada, dado a que los datos que se incluyen en la solución del problema están constituidos todos por inputs.
